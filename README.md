@@ -1,1 +1,1 @@
-# funcs
+# Simple check of identity of pair time series.
